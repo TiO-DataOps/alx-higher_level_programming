@@ -2,8 +2,6 @@
 
 <h2 align="center">Hatching Out </h2>
 
----
-
 ### :file_folder: Files / Directories 
 
 #|File|Description
