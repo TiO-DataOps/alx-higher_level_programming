@@ -1,7 +1,4 @@
-0x02. Python - Import & Modules
-```
-Python
-```
+0x02. Python - Import & Modules`
 ===============================
 
 Requirements
